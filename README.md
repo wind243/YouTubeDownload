@@ -2,7 +2,7 @@
 Download a YouTube video with Python's pytube package. 
 
 Dependencies: 
-install pytube 
+pip/pip3 install pytube 
 
 More information about pytube: https://pytube.io/en/latest/
 
